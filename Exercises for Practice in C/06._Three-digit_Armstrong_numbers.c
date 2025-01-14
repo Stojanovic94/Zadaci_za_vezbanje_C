@@ -25,7 +25,7 @@ int main()
         if (i == a)
             printf("%d \n", i);
     }
-	    // Wait for user input before closing
+    // Wait for user input before closing
     printf("Press Enter to continue...");
     getchar();  // Consume newline character left by scanf_s
     getchar();  // Wait for the Enter key press
