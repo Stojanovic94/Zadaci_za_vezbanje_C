@@ -10,6 +10,7 @@ main()
 		min = b;
 	if (min > c)
 		min = c;
+	
 	max = a;
 	if (max < b)
 		max = b;
