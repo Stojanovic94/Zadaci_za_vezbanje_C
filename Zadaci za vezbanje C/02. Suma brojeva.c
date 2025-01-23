@@ -1,4 +1,4 @@
-//Program izracunava sumu brojeva koji se unose sa tastaure.
+// Program izracunava sumu brojeva koji se unose sa tastaure.
 // Program zavrsava sumiranje kad se unese nula.
 #include "stdio.h"
 main()
